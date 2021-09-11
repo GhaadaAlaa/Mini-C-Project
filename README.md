@@ -1,1 +1,2 @@
 # Mini-C-Project
+NO GLOBAL VARIABLES
